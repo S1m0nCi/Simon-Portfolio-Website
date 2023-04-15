@@ -1,0 +1,29 @@
+{
+  "name": "simon-portfolio-website",
+  "version": "1.0.0",
+  "description": "Simon Ciavarro Programming Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S1m0nCi/Simon-Portfolio-Website.git"
+  },
+  "keywords": [
+    "Simon",
+    "Ciavarro",
+    "Portfolio",
+    "Programming",
+    "Website"
+  ],
+  "author": "Simon Ciavarro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S1m0nCi/Simon-Portfolio-Website/issues"
+  },
+  "homepage": "https://github.com/S1m0nCi/Simon-Portfolio-Website#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
